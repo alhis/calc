@@ -1,0 +1,12 @@
+C:\Users\p452289\prog\MathLib\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\p452289\prog\MathLib\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\p452289\prog\MathLib\Algebraic\obj\Debug\Algebraic.csprojResolveAssemblyReference.cache
+C:\Users\p452289\prog\MathLib\Algebraic\obj\Debug\Algebraic.csproj.CoreCompileInputs.cache
+C:\Users\p452289\prog\MathLib\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\p452289\prog\MathLib\Algebraic\obj\Debug\Algebraic.pdb
+I:\prog\csh\MathLib\Algebraic\bin\Debug\Algebraic.dll
+I:\prog\csh\MathLib\Algebraic\bin\Debug\Algebraic.pdb
+I:\prog\csh\MathLib\Algebraic\obj\Debug\Algebraic.csprojAssemblyReference.cache
+I:\prog\csh\MathLib\Algebraic\obj\Debug\Algebraic.csproj.CoreCompileInputs.cache
+I:\prog\csh\MathLib\Algebraic\obj\Debug\Algebraic.dll
+I:\prog\csh\MathLib\Algebraic\obj\Debug\Algebraic.pdb

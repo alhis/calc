@@ -1,0 +1,10 @@
+C:\Users\p452289\prog\MathLib\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\p452289\prog\MathLib\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\p452289\prog\MathLib\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\p452289\prog\MathLib\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\p452289\prog\MathLib\Arithmetic\obj\Debug\Arithmetic.pdb
+I:\prog\csh\MathLib\Arithmetic\bin\Debug\Arithmetic.dll
+I:\prog\csh\MathLib\Arithmetic\bin\Debug\Arithmetic.pdb
+I:\prog\csh\MathLib\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+I:\prog\csh\MathLib\Arithmetic\obj\Debug\Arithmetic.dll
+I:\prog\csh\MathLib\Arithmetic\obj\Debug\Arithmetic.pdb

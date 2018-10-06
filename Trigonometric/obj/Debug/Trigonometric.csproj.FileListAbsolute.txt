@@ -1,0 +1,12 @@
+C:\Users\p452289\prog\MathLib\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\p452289\prog\MathLib\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\p452289\prog\MathLib\Trigonometric\obj\Debug\Trigonometric.csprojResolveAssemblyReference.cache
+C:\Users\p452289\prog\MathLib\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+C:\Users\p452289\prog\MathLib\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\p452289\prog\MathLib\Trigonometric\obj\Debug\Trigonometric.pdb
+I:\prog\csh\MathLib\Trigonometric\bin\Debug\Trigonometric.dll
+I:\prog\csh\MathLib\Trigonometric\bin\Debug\Trigonometric.pdb
+I:\prog\csh\MathLib\Trigonometric\obj\Debug\Trigonometric.csprojAssemblyReference.cache
+I:\prog\csh\MathLib\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+I:\prog\csh\MathLib\Trigonometric\obj\Debug\Trigonometric.dll
+I:\prog\csh\MathLib\Trigonometric\obj\Debug\Trigonometric.pdb
